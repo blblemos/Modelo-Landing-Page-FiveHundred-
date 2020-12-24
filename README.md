@@ -6,8 +6,8 @@
 
 ### Mobile
 <div aling="center" display="flex">
-<img  width="49%" height="600" src="./Git/IMG/mobile-1.png">
-<img  width="49%" height="600" src="./Git/IMG/mobile-2.png">
+<img  width="49.1%" height="600" src="./Git/IMG/mobile-1.png">
+<img  width="49.9%" height="600" src="./Git/IMG/mobile-2.png">
 </div>
 
 #### Sobre:
