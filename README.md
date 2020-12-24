@@ -1,3 +1,4 @@
+<head>
 <style>
     h2 {
         color: #444444;
@@ -14,6 +15,7 @@
     }
 
 </style>
+</head>
 <body>
     <h2 class="titulo">Modelo-Landing-Page-FiveHundred</h2>
     <img  src="./Git/IMG/home-1.png">
