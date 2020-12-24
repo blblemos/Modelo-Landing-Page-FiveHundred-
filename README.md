@@ -1,5 +1,8 @@
 <head>
 <style>
+    *{
+        background-color:  rgb(190, 190, 190);
+    }
     h2 {
         color: #444444;
         text-align: center;
