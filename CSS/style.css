@@ -161,7 +161,6 @@ footer img{
     width: 64px;
     height: 64px;
     margin-top: -32px;
-    cursor: pointer;
 }
 
 .flex-mosaico{
@@ -172,8 +171,8 @@ footer img{
 .img-mosaico{
     width: 60%;
     text-align: center;
-    padding-top: 60px;
-    padding-bottom: 60px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 .text-mosaico{
@@ -181,7 +180,7 @@ footer img{
     padding-left: 100px;
 }
 .text-mosaico p{
-    padding-top: 125px;
+    padding-top: 40px;
     padding-bottom: 125px;
     font-size: 20px;
     font-family: sans-serif;
