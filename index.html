@@ -10,7 +10,7 @@
         <meta name="keywords" content="fivehundred,sites"/>
         <meta name="author" content="Bruno Lemos"/>
         <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0" />
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        
         
     </head>
 
@@ -26,13 +26,13 @@
             <div class="container bg">
                 <div class="form-container">
                     <h2>Solicite Orçamento</h2>
-                    <form>
+                    <form onsubmit="confirmacao()">
                         <input type="text" required name="nome" placeholder="*Nome">
                         <input type="text"  name="empresa" placeholder="Empresa">
                         <input type="email" required name="email" placeholder="*E-mail">
                         <input type="tel" required name="tel" placeholder="*Telefone" id="phone">
                         <div class="submit-1">
-                            <input type="submit" name="enviar" value="Enviar">
+                            <input type="submit" name="enviar" value="Enviar" >
                         </div><!--submit-->
                     </form>
                 </div><!--form-container-->
@@ -43,9 +43,9 @@
         <section class="cover-chamada">
             <div class="chamada container">
                 <div class="chamada-img">
-                    <img src="IMG/icon-seta.png" alt="Seta">
+                    <a href="#scroll"><img src="IMG/icon-seta.png" alt="Seta"></a>
                 </div><!--chamada-img-->
-                    <div class="chamada-nome">
+                    <div class="chamada-nome" id="scroll">
                         <h2>Conheça Nossos Produtos e Serviços</h2>
                     </div>
             </div><!--chamada container-->
@@ -95,13 +95,19 @@
             <p>Todos os direitos reservados! </p>
             <p>FiveHundred Development / fivehundred@gmail.com </p>
         </footer>
-
-        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.0/jquery.mask.js"></script>
+        
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="JS/menuScroll.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.0/jquery.mask.js"></script>
         <script>
             $(document).ready(function () { 
                 var $newPhone = $("#phone");
                 $newPhone.mask('(00) 00000-0000');
             });
+
+            function confirmacao() {
+                alert("Entraremos em contato!");
+            }
         </script>
     </body>
 </html>

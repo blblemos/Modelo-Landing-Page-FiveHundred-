@@ -161,6 +161,7 @@ footer img{
     width: 64px;
     height: 64px;
     margin-top: -32px;
+    cursor: pointer;
 }
 
 .flex-mosaico{
@@ -185,14 +186,14 @@ footer img{
     font-size: 20px;
     font-family: sans-serif;
     color: rgb(190, 190, 190);
-    text-align: justify;
+    text-align: left;
     font-weight: bold;
 }
 
 .img-mosaico img{
     width: 300px;
     max-width: 100%;
-    height: 200px;
+    height: 250px;
     max-height: 80%;
 }
 
