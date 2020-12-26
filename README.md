@@ -25,7 +25,7 @@ O projeto foi feito durante o curso **[Front End Completo - Danki Code]( https:/
 ---
 É uma empresa fictícia criada durante a faculdade por mim e por outros três colegas, para realizarmos alguns trabalhos durante o período do curso e para projetos externos.
 
-#### [Visite o Projeto <img width="24" src="./Git/IMG/link.png">](https://blblemos.github.io/Modelo-Landing-Page-FiveHundred-/)
+#### [Visite o Projeto <img width="19" align="center" src="./Git/IMG/link.png">](https://blblemos.github.io/Modelo-Landing-Page-FiveHundred-/)
 ---
 
 
