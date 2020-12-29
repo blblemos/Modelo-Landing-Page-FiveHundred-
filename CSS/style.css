@@ -168,7 +168,7 @@ footer img {
 
 .flex-mosaico {
   display: flex;
-  background-color: rgba(68, 68, 68, 0.5) ;
+  background-color: rgba(68, 68, 68, 0.5);
 }
 
 .img-mosaico {
@@ -211,17 +211,17 @@ footer img {
 
   .logo-1 {
     margin-top: 10px;
-	display: inline-block;
+    display: inline-block;
     float: none;
   }
-    
+
   .flex-mosaico {
-    display: block;    
+    display: block;
   }
 
   .text-mosaico {
     width: 100%;
-    padding: 0 0 0 0;    
+    padding: 0 0 0 0;
   }
 
   .text-mosaico p {
@@ -240,5 +240,4 @@ footer img {
     text-align: center;
     margin: 20px auto;
   }
-
 }
