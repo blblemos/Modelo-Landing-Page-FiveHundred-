@@ -11,13 +11,13 @@
 <img  width="49.9%" height="600" src="./Git/IMG/mobile-2.png">
 </div>
 
-#### Sobre:
+#### Sobre
 ---
 O site é uma landing page responsiva e simples, desenvolvida com objetivo de praticar conceitos básicos de: 
 
-- HTML;
-- CSS;
-- JavaScript. 
+-   HTML;
+-   CSS;
+-   JavaScript. 
 
 O projeto foi feito durante o curso **[Front End Completo - Danki Code]( https://cursos.dankicode.com/curso-front-end-completo)**, porém foi idealizado pensando em uma empresa fictícia chamada [Five Hundred](#-five-hundred).
 
@@ -27,7 +27,3 @@ O projeto foi feito durante o curso **[Front End Completo - Danki Code]( https:/
 
 #### [Visite o Projeto <img width="19" align="center" src="./Git/IMG/link.png">](https://blblemos.github.io/Modelo-Landing-Page-FiveHundred-/)
 ---
-
-
-
-
