@@ -10,7 +10,7 @@ body {
 }
 
 body {
-  background-color: #666666;
+  background-color: #666;
 }
 
 .container {
@@ -38,11 +38,11 @@ header {
   background-position: center;
 }
 
-section.cover-form, 
-section.cover-chamada, 
+section.cover-form,
+section.cover-chamada,
 section.cover-galeria {
   width: 100%;
-  margin:0 auto;
+  margin: 0 auto;
 }
 
 footer {
@@ -55,7 +55,7 @@ footer {
 footer p {
   font-family: sans-serif;
   color: rgb(190, 190, 190);
-  font-size: 15px; 
+  font-size: 15px;
   text-align: center;
 }
 
@@ -132,7 +132,7 @@ footer img {
 }
 
 .form-container h2 {
-  padding: 15px ;
+  padding: 15px;
   background-color: rgba(190, 190, 190, 0.5);
   color: rgb(68, 68, 68);
   text-align: center;
@@ -144,7 +144,7 @@ footer img {
 .chamada {
   margin-top: -10px;
   text-align: center;
-  background-color: rgba(68, 68, 68, 0.5) ;
+  background-color: rgba(68, 68, 68, 0.5);
   color: rgb(190, 190, 190);
 }
 
@@ -205,41 +205,40 @@ footer img {
     text-align: center;
   }
 
-    section.cover-form div.container {
-        text-align: center;
-    }
+  section.cover-form div.container {
+    text-align: center;
+  }
 
-	.logo-1{
-		margin-top:10px;
-		display: inline-block;
-		float: none;
-    }
+  .logo-1 {
+    margin-top: 10px;
+	display: inline-block;
+    float: none;
+  }
     
-    .flex-mosaico{
-        display: block;
-        
-    }
-    .text-mosaico{
-        width: 100%;
-        padding: 0 0 0 0;
-        
-    }
+  .flex-mosaico {
+    display: block;    
+  }
 
-    .text-mosaico p{
-        text-align: center;
-    }
+  .text-mosaico {
+    width: 100%;
+    padding: 0 0 0 0;    
+  }
 
-    .img-mosaico{
-        width: 100%;
-        padding: 0 0 20px 0;
-        margin-top: -100px;
-    }
+  .text-mosaico p {
+    text-align: center;
+  }
 
-    .form-container{
-        float: none;
-        display: inline-block;
-        text-align: center;
-        margin: 20px auto;
-    }
+  .img-mosaico {
+    width: 100%;
+    padding: 0 0 20px 0;
+    margin-top: -100px;
+  }
+
+  .form-container {
+    float: none;
+    display: inline-block;
+    text-align: center;
+    margin: 20px auto;
+  }
 
 }
